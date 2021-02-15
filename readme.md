@@ -1,0 +1,2 @@
+Esto es un ejercicio de programacion en el que persigo como objetivo mejorar mi nivel de destresa 
+   usando tecnologia como node.js y es6, se trata de un api sencillo en culla implementacion se trabajo usando la tecnologia de mongodb para la base de datos. 
