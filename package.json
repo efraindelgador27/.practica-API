@@ -1,0 +1,20 @@
+{
+  "name": "api_rest_practica",
+  "version": "1.0.0",
+  "description": "Esto es una practica de node para la construccion de un api basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Efrain Delgado",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
